@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "id": "wer4",
+      "name": "ring",
+      "price": 23,
+      "title": "qwerty",
+      "img": "https://preview.colorlib.com/theme/selling/images/model_1_bg.jpg"
+    },
+    {
+      "id": "wer42ed",
+      "name": "belt",
+      "price": 89,
+      "title": "qweghmrty",
+      "img": "https://preview.colorlib.com/theme/selling/images/model_2_bg.jpg"
+    },
+    {
+      "id": "wer4d4",
+      "name": "bag",
+      "price": 788,
+      "title": "qwertfgbgfy",
+      "img": "https://preview.colorlib.com/theme/selling/images/model_3_bg.jpg"
+    },
+    {
+      "id": "8819",
+      "name": "sgdf",
+      "price": 34
+    },
+    {
+      "id": "74a2",
+      "name": "fhgf",
+      "price": 768
+    },
+    {
+      "id": "f8ec",
+      "name": "h",
+      "price": 987
+    },
+    {
+      "id": "85fd",
+      "name": "ghkj",
+      "price": 678
+    },
+    {
+      "id": "534b",
+      "name": "yk",
+      "price": 8
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+*{
+    margin: auto 0;
+}
+
+.mainNav{
+    width: 100%;
+.nav1{
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    background-color: #f8f9fa;
+
+    .icons{
+        display: flex;
+        gap: 15px;
+        svg{
+            font-size: 30px;
+        }
+    }
+    .elaqe{
+        display: flex;
+        gap: 20px;
+        .phone{
+            display: flex;
+            svg{
+                color: orange;
+            }
+        }
+        .mail{
+            display: flex;
+            svg{
+                color: orange;
+            }
+        }
+    }
+}
+.nav2{
+display: flex;
+justify-content: space-around;
+height: 50px;
+background-color: white;
+
+.pagess{
+    display: flex;
+    gap: 12px;
+
+    a{
+        text-decoration: none;
+        color: black;
+    }
+}
+}
+ 
+}

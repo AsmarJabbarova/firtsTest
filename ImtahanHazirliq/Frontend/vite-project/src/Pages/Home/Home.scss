@@ -1,0 +1,105 @@
+.mainHome {
+    .section1 {
+        height: 900px;
+        background-image: url("./../../img/hero_2\ \(3\).jpg");
+        position: relative;
+
+        .sect {
+            position: absolute;
+            top: 287px;
+            left: 248px;
+
+            .shopWithUs {
+               
+                .h1 {
+                    font-size: 100px;
+                    color: white;
+                   
+                }
+
+              
+            }
+            .lorem{
+                h4{
+                    color: white;
+                }
+               } 
+        }
+        .shop{
+            height: 50px;
+            width: 200px;
+            background-color: black;
+            color: white;
+        }
+        .club{
+            height: 50px;
+            width: 200px;
+            background-color: black;
+            color: white;
+
+
+        }
+    }
+
+    .section2 {
+        .title2 {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+
+        }
+
+        .search {
+            display: flex;
+            justify-content: center;
+        }
+
+        .cards {
+            display: flex;
+            display: flex;
+            justify-content: center;
+            gap: 60px;
+            flex-wrap: wrap;
+
+            @media only screen and (max-width: 600px) {
+                .cards{
+                    display: flex;
+                    flex-direction: column;
+                }
+              }
+            .card {
+
+                // height: 400px;
+                border: 1px solid black;
+                width: 15%;
+                height: 285px;
+                padding: 10px;
+                height: 362px;
+
+
+                img {
+                    height: 285px;
+                }
+
+                .up {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: flex-end;
+                    align-items: center;
+                }
+
+            }
+
+        }
+    }
+
+
+}
+
+@media only screen and (max-width: 600px) {
+    .cards{
+        display: flex;
+        flex-direction: column;
+     
+    }
+  }

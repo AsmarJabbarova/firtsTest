@@ -1,0 +1,19 @@
+.mainDetail{
+    .card{
+
+        height: 400px;
+        border: 1px solid black;
+        width: 15%;
+        img{
+            height: 285px;
+        }
+        .up{
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            align-items: center;
+        }
+        
+    }
+
+}
